@@ -128,7 +128,13 @@ XGBoost significantly outperformed Logistic Regression across all major predicti
 | Accuracy          |                0.84 |  **0.92** |
 
 **XGBoost was selected as the best-performing model**, while Logistic Regression remains valuable as a more transparent and interpretable benchmark.
+## Model Comparison
 
+![Model Performance Comparison](images/model_performance_comparison.png)
+
+## XGBoost Feature Importance
+
+![XGBoost Feature Importance](images/xgboost_top10_feature_importance.png)
 ## Feature Importance
 
 The most important XGBoost predictors included:
