@@ -11,7 +11,9 @@ The project covers the complete modelling process from exploratory data analysis
 
 ## Dataset
 
-The project uses the **Credit Risk Dataset** available on Kaggle.
+The dataset used in this project is the **Credit Risk Dataset** by Lao Tse, available on Kaggle:
+
+[Credit Risk Dataset - Kaggle](https://www.kaggle.com/laotse/credit-risk-dataset/metadata)
 
 The dataset contains approximately 32,000 loan observations and includes borrower and loan characteristics such as:
 
